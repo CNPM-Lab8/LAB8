@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 Hello Giang,
 Trúc sửa ở đây nha..
 Sửa thêm..
-=======
->>>>>>> parent of e150d65... Update Giang.txt
+
